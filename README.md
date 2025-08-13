@@ -18,10 +18,6 @@ What is the highest-priced property listed in the dataset?
 What is the lowest-priced property listed in the dataset?
 What is the total estimated market value of all listed properties?
 
-- Dashboard Interaction [View Dashboard](https://github.com/username/repository/blob/main/YourFile.xlsx)
+ - Dashboard Interaction <a href="https://github.com/yourusername/yourrepo/blob/main/NewYork_Dashboard.png">View Dashboard</a>
 
-## Process
-Verify data for any missing values and anomalies, and resolve them.
-Ensure data consistency and cleanliness — checking data type, format, and values.
-Create pivot tables based on the required questions.
-Merge all pivot tables into one dashboard and apply slicers to make it dynamic.
+
