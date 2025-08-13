@@ -5,3 +5,21 @@
 The aim of this project is to create an interactive real estate sales dashboard for New York City, enabling analysis of property prices, types, and location-based trends. This will help stakeholders, investors, and analysts make informed decisions based on market insights.
 ## Data Source: 
 <a href="https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market">New York Housing Market Dataset</a>
+
+ ## Questions (KPIs)
+Which property type has the highest average price?
+Which borough has the most property listings?
+What is the price trend based on property size (sq ft)?
+Which neighborhoods have the highest median property prices?
+What is the distribution of properties by type (Condo, Co-op, Townhouse, etc.)?
+Which property sizes are most commonly listed?
+How do average prices vary between boroughs?
+What is the highest-priced property listed in the dataset?
+What is the lowest-priced property listed in the dataset?
+What is the total estimated market value of all listed properties?
+
+## Process
+Verify data for any missing values and anomalies, and resolve them.
+Ensure data consistency and cleanliness — checking data type, format, and values.
+Create pivot tables based on the required questions.
+Merge all pivot tables into one dashboard and apply slicers to make it dynamic.
